@@ -10,6 +10,7 @@ end
 
 def combine_name(first_name, last_name)
   # Q3 CODE HERE
+  sprintf('%s %s', first_name, last_name)
 end
 
 def blockin_time(a)
